@@ -16,7 +16,7 @@ A simple example of how module git repo could look like. This paragraph contains
 | ✗ NO  | **No bootstrap** - uses only proper modules |
 | ✓ YES | General **Tests in dist-git** |
 | ✓ YES | General **Tests pass** |
-| ✗ NO  | Meets the **Fedora Packaging Guideline** |
+| ✗ NO  | Meets the **Fedora Module Packaging Guidelines** |
 
 ### Notes
 
