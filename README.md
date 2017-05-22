@@ -15,8 +15,8 @@ A simple example of how module git repo could look like. This paragraph contains
 | ✓ YES | **Build passes** in the infra (all build deps are ok) |
 | ✓ YES | **Installs** on the Base Runtime (all runtime deps are ok) |
 | ✗ NO  | **No bootstrap** - uses only proper modules |
-| ✓ YES | General **Tests in dist-git** |
-| ✓ YES | General **Tests pass** |
+| ✓ YES | General **tests are in dist-git** |
+| ✓ YES | General **tests pass** |
 | ✗ NO  | Meets the **Fedora Module Packaging Guidelines** |
 
 ### Notes
