@@ -6,7 +6,7 @@
 [**PDC**](https://pdc.fedoraproject.org/rest_api/v1/unreleasedvariants/?active=True&variant_name=TEMPLATE)
 
 
-A simple example of how module git repo could look like. This paragraph contains a short description of the module.
+A simple example of how a git repo for a module could look like. This paragraph contains a short description of the module.
 
 ## Current state
 
