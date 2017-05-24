@@ -1,12 +1,12 @@
 # TEMPLATE module
 
-[**Dist Git**](http://pkgs.fedoraproject.org/cgit/modules/nginx.git/) |
-[**F26 modulemd**](http://pkgs.fedoraproject.org/cgit/modules/nginx.git/tree/nginx.yaml?h=f26) |
-[**Package DB**](https://admin.fedoraproject.org/pkgdb/package/modules/nginx/) |
-[**PDC**](https://pdc.fedoraproject.org/rest_api/v1/unreleasedvariants/?active=True&variant_name=nginx)
+[**Dist Git**](http://pkgs.fedoraproject.org/cgit/modules/TEMPLATE.git/) |
+[**F26 modulemd**](http://pkgs.fedoraproject.org/cgit/modules/TEMPLATE.git/tree/TEMPLATE.yaml?h=f26) |
+[**Package DB**](https://admin.fedoraproject.org/pkgdb/package/modules/TEMPLATE/) |
+[**PDC**](https://pdc.fedoraproject.org/rest_api/v1/unreleasedvariants/?active=True&variant_name=TEMPLATE)
 
 
-A simple example of how module git repo could look like. This paragraph contains a short description of the module.
+A simple example of how a git repo for a module could look like. This paragraph contains a short description of the module.
 
 ## Current state
 
