@@ -1,4 +1,4 @@
-# TEMPLATE module
+# sssd module
 
 [**Package DB** (owner)](https://admin.fedoraproject.org/pkgdb/package/modules/sssd/) |
 [**F26 modulemd** (source)](http://pkgs.fedoraproject.org/cgit/modules/sssd.git/tree/sssd.yaml?h=f26) |
