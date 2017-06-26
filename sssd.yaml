@@ -57,9 +57,34 @@ data:
             - libtalloc
             - libtdb
             - libwbclient
-            - samba
             - libldb
             - polkit-libs
+    filter:
+        rpms:
+            - check
+            - check-devel
+            - ctdb
+            - ctdb-tests
+            - samba
+            - samba-client
+            - samba-common-libs
+            - samba-common-tools
+            - samba-dc
+            - samba-dc-libs
+            - samba-debuginfo
+            - samba-devel
+            - samba-krb5-printing
+            - samba-libs
+            - samba-pidl
+            - samba-python
+            - samba-test
+            - samba-test-libs
+            - samba-vfs-cephfs
+            - samba-vfs-glusterfs
+            - samba-winbind
+            - samba-winbind-clients
+            - samba-winbind-krb5-locator
+            - samba-winbind-modules
     components:
         rpms:
             sssd:
@@ -83,10 +108,6 @@ data:
                 buildorder: 6
             quota:
                 rationale: A dependency of samba.
-                ref: f26
-                buildorder: 6
-            firewalld:
-                rationale: A dependency of glusterfs
                 ref: f26
                 buildorder: 6
             libldb:
@@ -137,3 +158,4 @@ data:
                 rationale: A dependency of sssd.
                 ref: f26
                 buildorder: 9
+
